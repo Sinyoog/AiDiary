@@ -132,4 +132,4 @@ AI Diary는 사용자가 하루 동안 작성한 일기를 바탕으로 감정�
 
 앱에서 일기를 작성하고 감정 분석 결과를 확인하는 흐름입니다.
 
-<video src="video/Simulator.mp4" controls></video>
+(https://github.com/Sinyoog/AiDiary/raw/main/images/Simulator.mp4)**
