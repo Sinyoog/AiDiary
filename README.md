@@ -134,4 +134,3 @@ AI Diary는 사용자가 하루 동안 작성한 일기를 바탕으로 감정�
 
 ![AI Diary Demo](images/Simulator.gif)
 
-
