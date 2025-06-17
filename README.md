@@ -128,9 +128,10 @@ AI Diary는 사용자가 하루 동안 작성한 일기를 바탕으로 감정�
 
 ---
 
-## 🎥 앱 사용 시연 영상: 일기 작성부터 감정 분석까지
+## 🎥 앱 사용 시연 (GIF)
 
-아래 영상에서는 AI Diary 앱을 실행하여 **일기를 작성하고 감정 분석 결과를 확인하는 전 과정을 시연**합니다.
+앱에서 일기를 작성하고 감정 분석 결과를 확인하는 흐름입니다.
 
-👉 [Simulator.mp4 직접 보기](https://github.com/Sinyoog/AiDiary/raw/main/images/Simulator.gif)
+![AI Diary Demo](images/Simulator.gif)
+
 
